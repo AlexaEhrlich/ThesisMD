@@ -88,8 +88,8 @@ El uso del resto del contenido se describe a continuación junto con el uso de l
 
 
 NOTAS AL LECTOR:
-
 Para mayor cantidad de detalles leer individualmente cada uno de los códigos con sus respectivos comentarios.
 Se recomienda trabajar la sincronización entre cámaras pares e impares, ya que fueron capturadas con distintos equipos de cómputo.
 Actualmente no se recomienda el uso de los modelos SMPL almacenados como OBJ en este archivo; sin embargo, se agregan como un punto de comparativa para trabajos posteriores.
-Para cualquier detalle de implementación o lógica se recomienda la lectura del archivo de tesis adjunto en esta USB.
+Para cualquier detalle de implementación o lógica se recomienda la lectura del archivo de tesis adjunto.
+Por motivos de privacidad, no se agregaron al repositorio los conjuntos de datos generados y utilizados durante la implementación.
